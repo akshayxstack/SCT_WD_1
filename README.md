@@ -1,5 +1,9 @@
  TickeTribe – Movie Ticket Booking Website
 
+SkillCraft Technology Internship – Task 1
+Author: CH D S Akshay
+Domain: Web Development
+
 TickeTribe is a simple and intuitive web application for browsing movies, selecting showtimes, and booking tickets online. It features a clean interface and interactive elements, making it ideal for simulating a real-world ticket booking experience.
 
  Project Overview
