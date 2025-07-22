@@ -58,8 +58,7 @@ TickeTribe/
 - Online payment gateway
 - Real-time seat availability updates
 
--License
-This project is created for educational/demo purposes.
+
 
  Made by
 Akshay Ch  
